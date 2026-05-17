@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Matheus F. Brito - 2026
+Feito por Matheus F. Brito - 2026g
